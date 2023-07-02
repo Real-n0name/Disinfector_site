@@ -515,7 +515,7 @@
         </div>
         <div class="row">
           <!--First Plan-->
-          <div class="col-12 col-md-9 col-lg-4  mx-auto price-plan ">
+          <div class="mb-4 col-12 col-md-9 col-lg-4  mx-auto price-plan ">
             <div class="plan wow fadeInUp " data-wow-delay=".2s">
               <div class="plan-head"><i class="flaticon-cleaner plan-icon"></i>
                 <!-- <h3 class="plan-price"><sup class="plan-currency">От </sup> 1800<span class="per"> / за услугу</span></h3> -->
@@ -523,18 +523,17 @@
               </div>
               <div class="plan-details">
                 <ul class="plan-list">
-                  <li class="plan-feat "> <span class="feat-text">150 Лорем, Ипсим Долор.</span><i class="bi bi-check2 feat-icon"></i></li>
-                  <li class="plan-feat "> <span class="feat-text">20 Прежде всего, укрепление.</span><i class="bi bi-check2 feat-icon"></i></li>
-                  <li class="plan-feat "> <span class="feat-text">Прежде всего, укрепление.</span><i class="bi bi-x feat-icon"></i></li>
-                  <li class="plan-feat "> <span class="feat-text">развитие внутренней структуры.</span><i class="bi bi-x feat-icon"></i></li>
-                  <li class="plan-feat "> <span class="feat-text">развитие внутренней структуры.</span><i class="bi bi-x feat-icon"></i></li>
+                  <li class="plan-feat "> <span class="feat-text">1 комнатная - <span class="price-orange">1800 ₽</span></span><i class="bi bi-check2 feat-icon"></i></li>
+                  <li class="plan-feat "> <span class="feat-text">2 комнатная - <span class="price-orange">2300 ₽</span></span><i class="bi bi-check2 feat-icon"></i></li>
+                  <li class="plan-feat "> <span class="feat-text">3 комнатная - <span class="price-orange">2800 ₽</span></span><i class="bi bi-check2 feat-icon"></i></li>
+                  <li class="plan-feat "> <span class="feat-text">Частный дом от <span class="price-orange">2500 ₽</span></span><i class="bi bi-check2 feat-icon"></i></li>
                 </ul>
               </div>
               <div class="plan-cta"><a class="cta-btn btn-outline btn-price" href="#contact-us" data-t="starter">выбрать тариф</a></div>
             </div>
           </div>
           <!--Second-plan-->
-          <div class="col-12 col-md-9 col-lg-4  mx-auto price-plan ">
+          <div class="mb-4 col-12 col-md-9 col-lg-4  mx-auto price-plan ">
             <div class="plan wow fadeInUp " data-wow-delay=".4s">
               <!-- <div class="ribbon">Самый популярный</div> -->
               <div class="plan-head"><i class="flaticon-cleaning plan-icon"></i>
@@ -543,18 +542,14 @@
               </div>
               <div class="plan-details">
                 <ul class="plan-list">
-                  <li class="plan-feat "> <span class="feat-text">150 Лорем, Ипсим Долор.</span><i class="bi bi-check2 feat-icon"></i></li>
-                  <li class="plan-feat "> <span class="feat-text">20 Прежде всего, укрепление.</span><i class="bi bi-check2 feat-icon"></i></li>
-                  <li class="plan-feat "> <span class="feat-text">Прежде всего, укрепление.</span><i class="bi bi-check2 feat-icon"></i></li>
-                  <li class="plan-feat "> <span class="feat-text">развитие внутренней структуры.</span><i class="bi bi-x feat-icon"></i></li>
-                  <li class="plan-feat "> <span class="feat-text">развитие внутренней структуры.</span><i class="bi bi-x feat-icon"></i></li>
+                  <li class="plan-feat "> <span class="feat-text">1 сотка - <span class="price-orange">800 ₽</span></span><i class="bi bi-check2 feat-icon"></i></li>
                 </ul>
               </div>
               <div class="plan-cta"><a class="cta-btn btn-outline btn-price" href="#contact-us" data-t="pro">выбрать тариф</a></div>
             </div>
           </div>
           <!--Third-plan-->
-          <div class="col-12 col-md-9 col-lg-4  mx-auto price-plan ">
+          <div class="mb-4 col-12 col-md-9 col-lg-4  mx-auto price-plan ">
             <div class="plan wow fadeInUp " data-wow-delay=".6s">
               <div class="plan-head"><i class="flaticon-earth-globe plan-icon"></i>
                 <!-- <h3 class="plan-price"><sup class="plan-currency">$</sup>165<span class="per">/ за услугу</span></h3> -->
@@ -562,11 +557,108 @@
               </div>
               <div class="plan-details">
                 <ul class="plan-list">
-                  <li class="plan-feat "> <span class="feat-text">150 Лорем, Ипсим Долор.</span><i class="bi bi-check2 feat-icon"></i></li>
-                  <li class="plan-feat "> <span class="feat-text">20 Прежде всего, укрепление.</span><i class="bi bi-check2 feat-icon"></i></li>
-                  <li class="plan-feat "> <span class="feat-text">Прежде всего, укрепление.</span><i class="bi bi-check2 feat-icon"></i></li>
-                  <li class="plan-feat "> <span class="feat-text">развитие внутренней структуры.</span><i class="bi bi-check2 feat-icon"></i></li>
-                  <li class="plan-feat "> <span class="feat-text">развитие внутренней структуры.</span><i class="bi bi-check2 feat-icon"></i></li>
+                  <li class="plan-feat "> <span class="feat-text">От 10-20м - <span class="price-orange">200 ₽</span> за м<sup>2</sup></span><i class="bi bi-check2 feat-icon"></i></li>
+                  <li class="plan-feat "> <span class="feat-text">От 20-30м - <span class="price-orange">150 ₽</span> за м<sup>2</sup></span><i class="bi bi-check2 feat-icon"></i></li>
+                  <li class="plan-feat "> <span class="feat-text">От 30-100м - <span class="price-orange">100 ₽</span> за м<sup>2</sup></span><i class="bi bi-check2 feat-icon"></i></li>
+                  <li class="plan-feat "> <span class="feat-text">От 100-200м - <span class="price-orange">50 ₽</span> за м<sup>2</sup></span><i class="bi bi-check2 feat-icon"></i></li>
+                </ul>
+              </div>
+              <div class="plan-cta"><a class="cta-btn btn-outline btn-price" href="#contact-us" data-t="ultimate">выбрать тариф</a></div>
+            </div>
+          </div>
+          <!--Fourth-plan-->
+          <div class="mb-4 col-12 col-md-9 col-lg-4  mx-auto price-plan ">
+            <div class="plan wow fadeInUp " data-wow-delay=".6s">
+              <div class="plan-head"><i class="flaticon-earth-globe plan-icon"></i>
+                <!-- <h3 class="plan-price"><sup class="plan-currency">$</sup>165<span class="per">/ за услугу</span></h3> -->
+                <h4 class="plane-name">Обработка хвойных деревьев</h4>
+              </div>
+              <div class="plan-details">
+                <ul class="plan-list">
+                  <li class="plan-feat "> <span class="feat-text">от <span class="price-orange">800 ₽</span> за одно дерево</span><i class="bi bi-check2 feat-icon"></i></li>
+                </ul>
+              </div>
+              <div class="plan-cta"><a class="cta-btn btn-outline btn-price" href="#contact-us" data-t="ultimate">выбрать тариф</a></div>
+            </div>
+          </div>
+          <!--Fifth-plan-->
+          <div class="mb-4 col-12 col-md-9 col-lg-4  mx-auto price-plan ">
+            <div class="plan wow fadeInUp " data-wow-delay=".6s">
+              <div class="plan-head"><i class="flaticon-earth-globe plan-icon"></i>
+                <!-- <h3 class="plan-price"><sup class="plan-currency">$</sup>165<span class="per">/ за услугу</span></h3> -->
+                <h4 class="plane-name">Обработка от короедов</h4>
+              </div>
+              <div class="plan-details">
+                <ul class="plan-list">
+                  <li class="plan-feat "> <span class="feat-text">До 100м - <span class="price-orange">300 ₽</span> за м<sup>2</sup></span><i class="bi bi-check2 feat-icon"></i></li>
+                  <li class="plan-feat "> <span class="feat-text">От 100м - 150м - <span class="price-orange">250 ₽</span> за м<sup>2</sup></span><i class="bi bi-check2 feat-icon"></i></li>
+                  <li class="plan-feat "> <span class="feat-text">от 150м - 1000м - <span class="price-orange">200 ₽</span> за м<sup>2</sup></span><i class="bi bi-check2 feat-icon"></i></li>
+                </ul>
+              </div>
+              <div class="plan-cta"><a class="cta-btn btn-outline btn-price" href="#contact-us" data-t="ultimate">выбрать тариф</a></div>
+            </div>
+          </div>
+          <!--Sixth-plan-->
+          <div class="mb-4 col-12 col-md-9 col-lg-4  mx-auto price-plan ">
+            <div class="plan wow fadeInUp " data-wow-delay=".6s">
+              <div class="plan-head"><i class="flaticon-earth-globe plan-icon"></i>
+                <!-- <h3 class="plan-price"><sup class="plan-currency">$</sup>165<span class="per">/ за услугу</span></h3> -->
+                <h4 class="plane-name">Обработка от крыс и мышей</h4>
+              </div>
+              <div class="plan-details">
+                <ul class="plan-list">
+                  <li class="plan-feat "> <span class="feat-text">До 100м - <span class="price-orange">40 ₽</span> за м<sup>2</sup></span><i class="bi bi-check2 feat-icon"></i></li>
+                  <li class="plan-feat "> <span class="feat-text">От 100 - 500м - <span class="price-orange">30 ₽</span> за м<sup>2</sup></span><i class="bi bi-check2 feat-icon"></i></li>
+                  <li class="plan-feat "> <span class="feat-text">От 500 - 1000м -<span class="price-orange">15 ₽</span> за м<sup>2</sup></span><i class="bi bi-check2 feat-icon"></i></li>
+                  <li class="plan-feat "> <span class="feat-text">От 1000 - 2000м - <span class="price-orange">10 ₽</span> за м<sup>2</sup></span><i class="bi bi-check2 feat-icon"></i></li>
+                </ul>
+              </div>
+              <div class="plan-cta"><a class="cta-btn btn-outline btn-price" href="#contact-us" data-t="ultimate">выбрать тариф</a></div>
+            </div>
+          </div>
+          <!--Seventh-plan-->
+          <div class="mb-4 col-12 col-md-9 col-lg-4  mx-auto price-plan ">
+            <div class="plan wow fadeInUp " data-wow-delay=".6s">
+              <div class="plan-head"><i class="flaticon-earth-globe plan-icon"></i>
+                <!-- <h3 class="plan-price"><sup class="plan-currency">$</sup>165<span class="per">/ за услугу</span></h3> -->
+                <h4 class="plane-name">Обработка деревьев от вредителей</h4>
+              </div>
+              <div class="plan-details">
+                <ul class="plan-list">
+                  <li class="plan-feat "> <span class="feat-text">От 1 до 5 деревьев - <span class="price-orange">500 ₽</span> за дерево</span><i class="bi bi-check2 feat-icon"></i></li>
+                  <li class="plan-feat "> <span class="feat-text">От 5 до 30 деревьев- <span class="price-orange">300 ₽</span> за дерево</span><i class="bi bi-check2 feat-icon"></i></li>
+                </ul>
+              </div>
+              <div class="plan-cta"><a class="cta-btn btn-outline btn-price" href="#contact-us" data-t="ultimate">выбрать тариф</a></div>
+            </div>
+          </div>
+          <!--Eigth-plan-->
+          <div class="mb-4 col-12 col-md-9 col-lg-4  mx-auto price-plan ">
+            <div class="plan wow fadeInUp " data-wow-delay=".6s">
+              <div class="plan-head"><i class="flaticon-earth-globe plan-icon"></i>
+                <!-- <h3 class="plan-price"><sup class="plan-currency">$</sup>165<span class="per">/ за услугу</span></h3> -->
+                <h4 class="plane-name">Устранение запахов</h4>
+              </div>
+              <div class="plan-details">
+                <ul class="plan-list">
+                  <li class="plan-feat "> <span class="feat-text">Неприятный запах (1 комнатная – <span class="price-orange">2500 ₽</span>; 2 комнатная- <span class="price-orange">3000 ₽</span>;3 комнатная - <span class="price-orange">3500 ₽</span>)</span><i class="bi bi-check2 feat-icon"></i></li>
+                  <li class="plan-feat "> <span class="feat-text">Запах гари ( 1 комнатная - <span class="price-orange">4000 ₽</span>; 2 комнатная - <span class="price-orange">5000 ₽</span>;3 комнатная - <span class="price-orange">6000 ₽</span>)</span><i class="bi bi-check2 feat-icon"></i></li>
+                  <li class="plan-feat "> <span class="feat-text">Трупный запах </span><i class="bi bi-check2 feat-icon"></i></li>
+                </ul>
+              </div>
+              <div class="plan-cta"><a class="cta-btn btn-outline btn-price" href="#contact-us" data-t="ultimate">выбрать тариф</a></div>
+            </div>
+          </div>
+          <!--Nineth-plan-->
+          <div class="mb-4 col-12 col-md-9 col-lg-4  mx-auto price-plan ">
+            <div class="plan wow fadeInUp " data-wow-delay=".6s">
+              <div class="plan-head"><i class="flaticon-earth-globe plan-icon"></i>
+                <!-- <h3 class="plan-price"><sup class="plan-currency">$</sup>165<span class="per">/ за услугу</span></h3> -->
+                <h4 class="plane-name">Удаление осиных гнезд</h4>
+              </div>
+              <div class="plan-details">
+                <ul class="plan-list">
+                  <li class="plan-feat "> <span class="feat-text">1 гнездо - <span class="price-orange">5000 ₽</span></span><i class="bi bi-check2 feat-icon"></i></li>
                 </ul>
               </div>
               <div class="plan-cta"><a class="cta-btn btn-outline btn-price" href="#contact-us" data-t="ultimate">выбрать тариф</a></div>
