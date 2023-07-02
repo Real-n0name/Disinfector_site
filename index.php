@@ -61,10 +61,10 @@
               <div class="list-js info-list"><i class="bi bi-x close-icon"></i>
                 <div class="info-list-inner">
                   <div class="info info-panel-logo">
-                    <div class="logo"><img class="logo-img light-logo" loading="lazy" src="assets/images/logo/logo-dark.svg" alt="logo"/></div>
+                    <div class="logo"><img class="logo-img light-logo" loading="lazy" src="assets/images/logo/black_logo_dis.svg" alt="logo"/></div>
                     <h3 class="info-title  ">Кто мы такие?</h3>
                     <div class="info-text">
-                      <p class="text">В рамках спецификации современных стандартов, диаграммы связей неоднозначны и будут представлены в исключительно положительном свете.</p>
+                      <p class="text">Компания предлагает услуги по санитарному обеззараживанию жилых домов, цехов промышленных предприятий, офисных зданий, общественных мест и транспорта. Принимаются заказы на обработку объектов любого уровня сложности. Специалисты-дезинфекторы применяют самые передовые технологии, имеют в своем распоряжении современное оборудование и химические средства.</p>
                     </div>
                   </div>
                   <h3 class="info-title">контакты</h3>
@@ -401,9 +401,7 @@
                     <div class="overlay overlay-color"></div>
                     <img class="portfolio-img parallax-img  img-fluid " loading="lazy" src="assets/images/portfolio/1.jpg" alt="portfolio item photo">
                   </a>
-                  <div class="item-info "><span class="pre-title">уборка</span>
-                    <h3 class="item-title">Заголовок</h3>
-                  </div>
+                  
                 </div>
               </div>
               <div class="col-12  col-lg-5  portfolio-item sanitizing ">
@@ -411,54 +409,40 @@
                     <div class="overlay overlay-color"></div>
                     <img class="portfolio-img parallax-img  img-fluid " loading="lazy" src="assets/images/portfolio/2.jpg" alt="portfolio item photo">
                   </a>
-                  <div class="item-info "><span class="pre-title">уборка</span>
-                    <h3 class="item-title">Заголовок</h3>
-                  </div>
+                  
                 </div>
               </div>
               <div class="col-12  col-lg-4  portfolio-item sanitizing ">
                 <div class="item   "><a data-fancybox="gallery" class="portfolio-img-link " href="assets/images/portfolio/3.jpg">
                     <div class="overlay overlay-color"></div><img class="portfolio-img parallax-img  img-fluid " loading="lazy" src="assets/images/portfolio/3.jpg" alt="portfolio item photo">
                     </a>
-                  <div class="item-info "><span class="pre-title">уборка</span>
-                    <h3 class="item-title">Заголовок</h3>
-                  </div>
+                  
                 </div>
               </div>
               <div class="col-12  col-lg-4  portfolio-item cleaning ">
                 <div class="item   "><a data-fancybox="gallery" class="portfolio-img-link " href="assets/images/portfolio/4.jpg">
                     <div class="overlay overlay-color"></div><img class="portfolio-img parallax-img  img-fluid " loading="lazy" src="assets/images/portfolio/4.jpg" alt="portfolio item photo">
                     </a>
-                  <div class="item-info "><span class="pre-title">уборка</span>
-                    <h3 class="item-title">Заголовок</h3>
-                  </div>
+                  
                 </div>
               </div>
               <div class="col-12  col-lg-4  portfolio-item residential ">
                 <div class="item   "><a data-fancybox="gallery" class="portfolio-img-link " href="assets/images/portfolio/5.jpg">
                     <div class="overlay overlay-color"></div><img class="portfolio-img parallax-img  img-fluid " loading="lazy" src="assets/images/portfolio/5.jpg" alt="portfolio item photo">
                     </a>
-                  <div class="item-info "><span class="pre-title">уборка</span>
-                    <h3 class="item-title">Заголовок</h3>
-                  </div>
+                  
                 </div>
               </div>
               <div class="col-12  col-lg-6  portfolio-item cleaning ">
                 <div class="item   "><a data-fancybox="gallery" class="portfolio-img-link " href="assets/images/portfolio/6.jpg">
                     <div class="overlay overlay-color"></div><img class="portfolio-img parallax-img  img-fluid " loading="lazy" src="assets/images/portfolio/6.jpg" alt="portfolio item photo">
                     </a>
-                  <div class="item-info "><span class="pre-title">уборка</span>
-                    <h3 class="item-title">Заголовок      </h3>
-                  </div>
                 </div>
               </div>
               <div class="col-12  col-lg-6  portfolio-item supplies ">
                 <div class="item   "><a data-fancybox="gallery" class="portfolio-img-link " href="assets/images/portfolio/7.jpg">
                     <div class="overlay overlay-color"></div><img class="portfolio-img parallax-img  img-fluid " loading="lazy" src="assets/images/portfolio/7.jpg" alt="portfolio item photo">
                     </a>
-                  <div class="item-info "><span class="pre-title">уборка</span>
-                    <h3 class="item-title">Заголовок                 </h3>
-                  </div>
                 </div>
               </div>
             </div>
