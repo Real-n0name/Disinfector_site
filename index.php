@@ -106,7 +106,6 @@
                 <li class="nav-item  menu-item  "><a class="nav-link menu-link   " href="#portfolio">портфолио </a></li>
                 <li class="nav-item  menu-item  "><a class="nav-link menu-link   " href="#pricing">цены </a></li>
                 <li class="nav-item  menu-item  "><a class="nav-link menu-link   " href="#testimonials">отзывы </a></li>
-                <li class="nav-item  menu-item  "><a class="nav-link menu-link   " href="#faq">FAQ </a></li>
                 <li class="nav-item  menu-item  "><a class="nav-link menu-link   " href="#contact-us">контакты </a></li>
               </ul>
             </div>
@@ -673,17 +672,10 @@
                 <div class="swiper-slide">
                   <div class="testmonial-card d-flex align-items-center justify-content-center">
                     <div class="testimonial-content">
-                      <div class="customer-info "><img class="img-fluid " loading="lazy" src="assets/images/testimonials/1.jpg" alt="First Slide ">
-                        <div class="customer-details">
-                          <p class="customer-name">Юсуф Амин</p>
-                          <p class="customer-role">основатель</p>
-                        </div>
-                      </div>
-                      <div class="rating-stars"><i class="bi bi-star-fill star-icon"></i><i class="bi bi-star-fill star-icon"></i><i class="bi bi-star-fill star-icon"></i><i class="bi bi-star-fill star-icon"></i><i class="bi bi-star-fill star-icon"></i>
-                      </div>
+                      
                       <div class="customer-testimonial"><i class="fas fa-quote-left   icon"></i>
                         <div class="content">
-                          <p class="testimonial-text "> Прежде всего, укрепление и развитие внутренней структуры создаёт необходимость включения в производственный план целого ряда внеочередных.</p>
+                          <p class="testimonial-text ">Сегодня обратилась в данную компанию, чтобы обработать 4-комнатную квартиру от клопов. Всё мне объяснили подробно и помогли. Осталась очень довольна.</p>
                         </div>
                       </div>
                     </div>
@@ -693,17 +685,12 @@
                 <div class="swiper-slide">
                   <div class="testmonial-card d-flex align-items-center justify-content-center">
                     <div class="testimonial-content">
-                      <div class="customer-info "><img class="img-fluid " loading="lazy" src="assets/images/testimonials/2.jpg" alt="First Slide ">
-                        <div class="customer-details">
-                          <p class="customer-name">фуад осман</p>
-                          <p class="customer-role">сотрудник</p>
-                        </div>
-                      </div>
-                      <div class="rating-stars"><i class="bi bi-star-fill star-icon"></i><i class="bi bi-star-fill star-icon"></i><i class="bi bi-star-fill star-icon"></i><i class="bi bi-star-fill star-icon"></i><i class="bi bi-star star-icon "></i>
-                      </div>
+                      
                       <div class="customer-testimonial"><i class="fas fa-quote-left   icon"></i>
                         <div class="content">
-                          <p class="testimonial-text "> Прежде всего, укрепление и развитие внутренней структуры создаёт необходимость включения в производственный план целого ряда внеочередных.</p>
+                          <p class="testimonial-text ">В подъезде завелись тараканы. Мы дружно решили позвонить в эту компанию, и ни дня ни пожалели. 
+Уже на протяжении пол года нас никто не беспокоит. 
+Сделали скидку на первую квартиру.</p>
                         </div>
                       </div>
                     </div>
@@ -713,17 +700,65 @@
                 <div class="swiper-slide">
                   <div class="testmonial-card d-flex align-items-center justify-content-center">
                     <div class="testimonial-content">
-                      <div class="customer-info "><img class="img-fluid " loading="lazy" src="assets/images/testimonials/3.jpg" alt="First Slide ">
-                        <div class="customer-details">
-                          <p class="customer-name">фейруз мхмд</p>
-                          <p class="customer-role">менеджер</p>
-                        </div>
-                      </div>
-                      <div class="rating-stars"><i class="bi bi-star-fill star-icon"></i><i class="bi bi-star-fill star-icon"></i><i class="bi bi-star-fill star-icon"></i><i class="bi bi-star-fill star-icon"></i><i class="bi bi-star star-icon "></i>
-                      </div>
+                      
                       <div class="customer-testimonial"><i class="fas fa-quote-left   icon"></i>
                         <div class="content">
-                          <p class="testimonial-text "> Прежде всего, укрепление и развитие внутренней структуры создаёт необходимость включения в производственный план целого ряда внеочередных.            </p>
+                          <p class="testimonial-text ">Выбрал эту службу для уничтожения кроватных клопов. Специалист приехал в этот же день. Помог разобрать наш диван. Объяснил нам, что и как будет. 
+Специалист, и вправду оказался очень грамотный, потому что два года как нет клопов в нашем доме.</p>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <!--fourth Slide-->
+                <div class="swiper-slide">
+                  <div class="testmonial-card d-flex align-items-center justify-content-center">
+                    <div class="testimonial-content">
+                      
+                      <div class="customer-testimonial"><i class="fas fa-quote-left   icon"></i>
+                        <div class="content">
+                          <p class="testimonial-text ">В этом году заметили в огороде, что хвойные деревья стали жёлтые. В начале лета вызвали службу. Они нас обработали, по итогу виден результат, в огороде деревья нас радуют! 
+Спасибо огромное!</p>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <!--fifth Slide-->
+                <div class="swiper-slide">
+                  <div class="testmonial-card d-flex align-items-center justify-content-center">
+                    <div class="testimonial-content">
+                      
+                      <div class="customer-testimonial"><i class="fas fa-quote-left   icon"></i>
+                        <div class="content">
+                          <p class="testimonial-text ">Спасибо огромное вашему специалисту ,Илье Валерьевичу. Всё сделано качественно, быстро и главное с большой ответственностью. Рекомендую обращаться именно к нему!</p>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <!--sixth Slide-->
+                <div class="swiper-slide">
+                  <div class="testmonial-card d-flex align-items-center justify-content-center">
+                    <div class="testimonial-content">
+                      
+                      <div class="customer-testimonial"><i class="fas fa-quote-left   icon"></i>
+                        <div class="content">
+                          <p class="testimonial-text ">Хочу поблагодарить компанию за проделанную работу. В нашем подъезде нет тараканов!</p>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <!--seventh Slide-->
+                <div class="swiper-slide">
+                  <div class="testmonial-card d-flex align-items-center justify-content-center">
+                    <div class="testimonial-content">
+                      
+                      <div class="customer-testimonial"><i class="fas fa-quote-left   icon"></i>
+                        <div class="content">
+                          <p class="testimonial-text ">Два раза обрабатывали от муравьёв.Первый раз обращались в другую службу, не помогли. Здесь приехал очень внимательный специалист, Илья,нашёл гнездо,осмотрел участок, все объяснил и подсказал, быстро всё обработал. Муравьёв больше нет. 
+Наша семья рада!</p>
                         </div>
                       </div>
                     </div>
