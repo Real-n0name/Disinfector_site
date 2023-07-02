@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>SITE MAKET</title>
+    <title> Дизинфекция помещений и участков</title>
         
         <!-- fav icon -->
         <link rel="icon" href="assets/images/fav-icon/favicon.ico">
@@ -519,7 +519,7 @@
             <div class="plan wow fadeInUp " data-wow-delay=".2s">
               <div class="plan-head"><i class="flaticon-cleaner plan-icon"></i>
                 <!-- <h3 class="plan-price"><sup class="plan-currency">От </sup> 1800<span class="per"> / за услугу</span></h3> -->
-                <h4 class="plane-name">Обработка от клопов, тараканов и т.д. </h4>
+                <h4 class="plane-name">Обработка от клопов, тараканов и т.д.</h4>
               </div>
               <div class="plan-details">
                 <ul class="plan-list">
@@ -529,7 +529,7 @@
                   <li class="plan-feat "> <span class="feat-text">Частный дом от <span class="price-orange">2500 ₽</span></span><i class="bi bi-check2 feat-icon"></i></li>
                 </ul>
               </div>
-              <div class="plan-cta"><a class="cta-btn btn-outline btn-price" href="#contact-us" data-t="starter">выбрать тариф</a></div>
+              <div class="plan-cta"><a class="cta-btn btn-outline btn-price" href="#contact-us" data-t="Обработка от клопов, тараканов и т.д.">выбрать тариф</a></div>
             </div>
           </div>
           <!--Second-plan-->
@@ -545,7 +545,7 @@
                   <li class="plan-feat "> <span class="feat-text">1 сотка - <span class="price-orange">800 ₽</span></span><i class="bi bi-check2 feat-icon"></i></li>
                 </ul>
               </div>
-              <div class="plan-cta"><a class="cta-btn btn-outline btn-price" href="#contact-us" data-t="pro">выбрать тариф</a></div>
+              <div class="plan-cta"><a class="cta-btn btn-outline btn-price" href="#contact-us" data-t="Обработка от комаров, клещей мух и т.д.">выбрать тариф</a></div>
             </div>
           </div>
           <!--Third-plan-->
@@ -563,7 +563,7 @@
                   <li class="plan-feat "> <span class="feat-text">От 100-200м - <span class="price-orange">50 ₽</span> за м<sup>2</sup></span><i class="bi bi-check2 feat-icon"></i></li>
                 </ul>
               </div>
-              <div class="plan-cta"><a class="cta-btn btn-outline btn-price" href="#contact-us" data-t="ultimate">выбрать тариф</a></div>
+              <div class="plan-cta"><a class="cta-btn btn-outline btn-price" href="#contact-us" data-t="Обработка от COVID-19">выбрать тариф</a></div>
             </div>
           </div>
           <!--Fourth-plan-->
@@ -578,7 +578,7 @@
                   <li class="plan-feat "> <span class="feat-text">от <span class="price-orange">800 ₽</span> за одно дерево</span><i class="bi bi-check2 feat-icon"></i></li>
                 </ul>
               </div>
-              <div class="plan-cta"><a class="cta-btn btn-outline btn-price" href="#contact-us" data-t="ultimate">выбрать тариф</a></div>
+              <div class="plan-cta"><a class="cta-btn btn-outline btn-price" href="#contact-us" data-t="Обработка хвойных деревьев">выбрать тариф</a></div>
             </div>
           </div>
           <!--Fifth-plan-->
@@ -595,7 +595,7 @@
                   <li class="plan-feat "> <span class="feat-text">от 150м - 1000м - <span class="price-orange">200 ₽</span> за м<sup>2</sup></span><i class="bi bi-check2 feat-icon"></i></li>
                 </ul>
               </div>
-              <div class="plan-cta"><a class="cta-btn btn-outline btn-price" href="#contact-us" data-t="ultimate">выбрать тариф</a></div>
+              <div class="plan-cta"><a class="cta-btn btn-outline btn-price" href="#contact-us" data-t="Обработка от короедов">выбрать тариф</a></div>
             </div>
           </div>
           <!--Sixth-plan-->
@@ -613,7 +613,7 @@
                   <li class="plan-feat "> <span class="feat-text">От 1000 - 2000м - <span class="price-orange">10 ₽</span> за м<sup>2</sup></span><i class="bi bi-check2 feat-icon"></i></li>
                 </ul>
               </div>
-              <div class="plan-cta"><a class="cta-btn btn-outline btn-price" href="#contact-us" data-t="ultimate">выбрать тариф</a></div>
+              <div class="plan-cta"><a class="cta-btn btn-outline btn-price" href="#contact-us" data-t="Обработка от крыс и мышей">выбрать тариф</a></div>
             </div>
           </div>
           <!--Seventh-plan-->
@@ -629,7 +629,7 @@
                   <li class="plan-feat "> <span class="feat-text">От 5 до 30 деревьев- <span class="price-orange">300 ₽</span> за дерево</span><i class="bi bi-check2 feat-icon"></i></li>
                 </ul>
               </div>
-              <div class="plan-cta"><a class="cta-btn btn-outline btn-price" href="#contact-us" data-t="ultimate">выбрать тариф</a></div>
+              <div class="plan-cta"><a class="cta-btn btn-outline btn-price" href="#contact-us" data-t="Обработка деревьев от вредителей">выбрать тариф</a></div>
             </div>
           </div>
           <!--Eigth-plan-->
@@ -646,7 +646,7 @@
                   <li class="plan-feat "> <span class="feat-text">Трупный запах </span><i class="bi bi-check2 feat-icon"></i></li>
                 </ul>
               </div>
-              <div class="plan-cta"><a class="cta-btn btn-outline btn-price" href="#contact-us" data-t="ultimate">выбрать тариф</a></div>
+              <div class="plan-cta"><a class="cta-btn btn-outline btn-price" href="#contact-us" data-t="Устранение запахов">выбрать тариф</a></div>
             </div>
           </div>
           <!--Nineth-plan-->
@@ -661,7 +661,7 @@
                   <li class="plan-feat "> <span class="feat-text">1 гнездо - <span class="price-orange">5000 ₽</span></span><i class="bi bi-check2 feat-icon"></i></li>
                 </ul>
               </div>
-              <div class="plan-cta"><a class="cta-btn btn-outline btn-price" href="#contact-us" data-t="ultimate">выбрать тариф</a></div>
+              <div class="plan-cta"><a class="cta-btn btn-outline btn-price" href="#contact-us" data-t="Удаление осиных гнезд">выбрать тариф</a></div>
             </div>
           </div>
         </div>

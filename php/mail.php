@@ -16,7 +16,7 @@ $message = $_POST['message'];
 $tariff = $_POST['tariff'];
 
 // Формирование самого письма
-$title = "С сайта Баталов №8";
+$title = "С сайта Disinfector56";
 $body = "
 <h2>Новое письмо</h2>
 <b>Имя:</b> $name<br>
@@ -39,16 +39,16 @@ try {
     $mail->isSMTP();
     $mail->Host = 'ssl://smtp.yandex.ru';
     $mail->SMTPAuth     = true;
-    $mail->Username     = 'info@sitemaket.ru'; // Если почта для домена, то логин это полный адрес почты
-    $mail->Password     = 'peambiawfonvztyj';
+    $mail->Username     = 'karacheveg@yandex.ru'; // Если почта для домена, то логин это полный адрес почты
+    $mail->Password     = 'iuiogiyjojryjtxj';
     $mail->SMTPSecure = 'tls';
     $mail->Port         = 465;
 
     //ОТ кого
-    $mail->setFrom('info@sitemaket.ru', 'MassageLive'); 
+    $mail->setFrom('karacheveg@yandex.ru', 'MassageLive'); 
 
     // Получатель письма
-    $mail->addAddress('s.povar@sitemaket.ru');
+    $mail->addAddress('kristina.chernousova.01@inbox.ru');
 
 
     // Отправка сообщения
